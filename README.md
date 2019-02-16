@@ -8,3 +8,4 @@ Application - A twitter inspired creative app with own modifications.
 | Mado            | EST         | 
 | Lu              | AET         |  
 | Srikanth        | IST         | 
+| Mushtaq         | JST         |
