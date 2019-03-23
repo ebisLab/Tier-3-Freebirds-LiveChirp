@@ -9,3 +9,4 @@ Application - A twitter inspired creative app with own modifications.
 | Lu              | AET         |  
 | Srikanth        | IST         | 
 | Mushtaq         | JST         |
+| Attara          |             |
